@@ -1,0 +1,12 @@
+{
+  "name": "graphql-subs-example",
+  "version": "0.0.1",
+  "repository": "https://github.com/NichaRoj/graphql-subs-example",
+  "author": "Nicha <NichaRoj@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.3"
+  }
+}
